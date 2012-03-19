@@ -32,6 +32,8 @@
         <addon.android.future.usb.groupid>com.android.future</addon.android.future.usb.groupid>
         <addon.android.future.usb.artifactid>usb</addon.android.future.usb.artifactid>
         <extras.compatibility.groupid>android.support</extras.compatibility.groupid>
+        <layoutlib.android.groupid>android</layoutlib.android.groupid>
+        <layoutlib.android.artifactid>layoutlib</layoutlib.android.artifactid>
     </properties>
 
     <issueManagement>
@@ -78,5 +80,6 @@
         <module>platforms</module>
         <module>add-ons</module>
         <module>extras</module>
+        <module>layoutlib</module>
     </modules>
 </project>
